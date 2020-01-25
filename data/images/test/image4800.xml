@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>image4800.jpg</filename>
+	<path>/home/younes/opencv_workspace/demo/images/train/image4800.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>169</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>abrams</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>98</xmin>
+			<ymin>63</ymin>
+			<xmax>252</xmax>
+			<ymax>142</ymax>
+		</bndbox>
+	</object>
+</annotation>

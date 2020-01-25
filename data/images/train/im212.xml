@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>im212.jpg</filename>
+	<path>/home/younes/vision/train/im212.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>533</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>camion</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>436</xmin>
+			<ymin>177</ymin>
+			<xmax>614</xmax>
+			<ymax>342</ymax>
+		</bndbox>
+	</object>
+</annotation>

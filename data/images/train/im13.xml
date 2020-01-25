@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>im13.jpg</filename>
+	<path>/home/younes/vision/train/im13.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1367</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hummer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1201</xmin>
+			<ymin>958</ymin>
+			<xmax>1876</xmax>
+			<ymax>1194</ymax>
+		</bndbox>
+	</object>
+</annotation>

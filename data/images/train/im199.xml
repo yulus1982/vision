@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>im199.jpg</filename>
+	<path>/home/younes/vision/train/im199.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>533</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>jeep</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>117</xmin>
+			<ymin>158</ymin>
+			<xmax>492</xmax>
+			<ymax>436</ymax>
+		</bndbox>
+	</object>
+</annotation>
